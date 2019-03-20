@@ -1,0 +1,11 @@
+{
+  "name": "reverse-a-string",
+  "version": "1.0.0",
+  "description": "this super fun program will take a string, and reverse it!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
